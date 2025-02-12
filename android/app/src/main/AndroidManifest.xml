@@ -5,6 +5,7 @@
         android:usesCleartextTraffic="true"
         android:label="PKU Food Database"
         android:icon="@mipmap/ic_launcher">
+        
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -16,4 +17,5 @@
             </intent-filter>
         </activity>
     </application>
+
 </manifest>
